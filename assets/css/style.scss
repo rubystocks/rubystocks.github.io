@@ -3,6 +3,9 @@
 
 @import "{{ site.theme }}";
 
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap');
+
 h1 {
     color: blue !important;
+    font-family: 'DM Sans', sans-serif;
 }
