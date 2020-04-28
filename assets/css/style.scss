@@ -6,6 +6,12 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap');
 
 h1 {
-    color: blue !important;
     font-family: 'DM Sans', sans-serif;
+}
+
+span.text-highlight {
+    background-color: #0303ab;
+    background-image: linear-gradient(to right, #0303ab 0%, #0303ab 100%);
+    padding-left: 0.1em;
+    padding-right: 0.1em;
 }
